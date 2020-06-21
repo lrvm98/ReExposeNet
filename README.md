@@ -6,6 +6,14 @@ Contrast Enhancement and Image Completion: A CNN Based Model to Restore Ill Expo
 
 by C. R. Steffens,L. R. V. Messias, P. L. J. Drews-Jr and S. S. C. Botelho
 
+Results on Under-exposed Images
+
+![Results on Under-exposed Images](slides/Slide21.JPG)
+
+Results on Over-exposed Images
+
+![Results on Over-exposed Images](slides/Slide23.JPG)
+
 
 ```
 @INPROCEEDINGS{steffens2019reexposenet,
